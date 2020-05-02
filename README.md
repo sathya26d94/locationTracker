@@ -1,2 +1,2 @@
-# locationTracker
-tracks the users path on map
+## locationTracker
+Tracks the users path on map
