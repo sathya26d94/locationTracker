@@ -1,2 +1,3 @@
 ## locationTracker
-Tracks the users path on map
+Track your path on the map!
+
